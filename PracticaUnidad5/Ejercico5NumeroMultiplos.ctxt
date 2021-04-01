@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercico5NumeroMultiplos
+comment0.text=\r\n\ Verifica\ si\ son\ multiplos\ los\ datos\ que\ ingreasa\ el\ usuario\r\n\ \r\n\ @author\ (Chelo)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=num1\ num2
+comment1.target=java.lang.String\ calcularMultiplos(int,\ int)
+numComments=2

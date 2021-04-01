@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio7PrimerDig
+comment0.text=\r\n\ halla\ el\ primer\ digito\ de\ un\ numero\ de\ tres\ digitos.\r\n\ \r\n\ @author\ (Chelo)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=numero
+comment1.target=int\ hallarPrimerDigito(int)
+numComments=2

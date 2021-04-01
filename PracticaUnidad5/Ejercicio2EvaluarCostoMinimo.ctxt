@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio2EvaluarCostoMinimo
+comment0.text=\r\n\ calcula\ el\ costo\ de\ tres\ productos\ y\ selecciona\ los\ dos\ menores\ .\r\n\ \r\n\ @author\ (chelo)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=costo1\ costo2\ costo3
+comment1.target=int\ evaluarCostosMenores(int,\ int,\ int)
+numComments=2

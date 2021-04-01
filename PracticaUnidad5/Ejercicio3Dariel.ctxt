@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio3Dariel
+comment0.text=\r\n\ verifica\ si\ una\ unidad\ o\ decimal\ esta\ formado\ por\ par\ o\ impar.\r\n\ \r\n\ @author\ (Chelo)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=numero
+comment1.target=java.lang.String\ verificarDecimal(int)
+numComments=2
